@@ -90,11 +90,12 @@ header {
 }
 
 .sec-title {
-    padding: 100px 0px 0px 630px;
+    padding: 100px 0px 0px 0px;
     font-size: 35px;
     font-weight: 800;
     flood-color: #272727;
     margin-bottom: 20px;
+    text-align: center;
 }
 .item-container{
     display: flex;
@@ -103,7 +104,7 @@ header {
 }
 .item-container .item1{
     background: #f0b8c3;
-    margin: 20px;
+    margin: 20px 0px 0px 160px;
     padding: 80px 50px 0px 50px ;
     border-radius: 300px 300px 0px 0px ;
 }
@@ -128,7 +129,7 @@ header {
 /* 2nd item shop flowers */
 
 .item-container2 .item1-shop{
-    margin: 50px 20px 0px 0px ; 
+    margin: 50px 20px 0px 150px ; 
     
 }
 .item-container2 .item2-shop{
@@ -141,7 +142,7 @@ header {
     margin: 45px 20px 0px 0px ; 
 }
 .sec-title2 {
-    padding: 0px 0px 0px 720px;
+    padding: 0px 0px 0px 820px;
     font-size: 35px;
     font-weight: 800;
     flood-color: #272727;
@@ -251,6 +252,9 @@ text-align: center;
 }
 input{
     padding: 15px 400px 15px 5px ;
-    margin: 30px 0px 0px 430px ;
+    margin: 30px 0px 0px 600px ; */
     border: none;
+    text-align: center;
+
+    
 }
