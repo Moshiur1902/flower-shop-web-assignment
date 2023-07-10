@@ -157,10 +157,8 @@ header {
 /* Footer part  */
 
 .footer{
-    padding: 0px 0px 0px 240px;
-    /* display: flex;
-    
-    justify-content: space-between; */
+    background-color: #000000;
+    margin: 200px 0px;
     
 
 }
@@ -205,6 +203,8 @@ header {
     margin: 0px;
     padding: 20px 500px 0px 500px;
 text-align: center;
+
+
    
 }
 
