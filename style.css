@@ -128,7 +128,7 @@ header {
 /* 2nd item shop flowers */
 
 .item-container2 .item1-shop{
-    margin: 45px 20px 0px 0px ; 
+    margin: 50px 20px 0px 0px ; 
     
 }
 .item-container2 .item2-shop{
@@ -207,6 +207,8 @@ text-align: center;
    
 }
 
+   
+
 
 .back{
    
@@ -218,11 +220,14 @@ text-align: center;
    margin: 100px 0px 0px 50px;
 }
 .last-heading-sub{
-    padding: 100px 0px 0px 600px;
+    /* padding: 100px 0px 0px 600px; */
     font-size: 35px;
+    padding: 90px 0px 0px 0px ;
     font-weight: 800;
     flood-color: #272727;
     margin-bottom: 20px;
+    text-align: center;
+
     
 }
 .sml-letter{
@@ -246,6 +251,6 @@ text-align: center;
 }
 input{
     padding: 15px 400px 15px 5px ;
-    margin: 30px 0px 0px 390px ;
+    margin: 30px 0px 0px 430px ;
     border: none;
 }
