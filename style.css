@@ -156,18 +156,16 @@ header {
 
 /* Footer part  */
 
-.footer{
-    background-color: #000000;
-    margin: 200px 0px;
+
     
 
-}
+
 
 .footer-heading {
     font-size: 35px;
     font-weight: 800;
     flood-color: #272727;
-    margin-bottom: 20px;
+   
 
 }
 .banner-about3 {
@@ -181,7 +179,7 @@ header {
     background-color: #111010;
     margin: 240px 0px 0px 0px;
     padding: 80px;
-    width: 1420px;
+   
     height: 200px;
 
 }
@@ -195,7 +193,8 @@ header {
 }
 .copy-right{
     color: #9b8a8a ;
-    margin: 70px 0px 0px 550px ;
+    margin: 70px 0px 0px 0px ;
+    text-align: center;
 }
 .footer-description{
     color: #f7f7f7; 
@@ -208,12 +207,7 @@ text-align: center;
    
 }
 
-.last-heading {
-    
-    background-image:url("../flower-shop-web-assignment/images/Rectangle\ 9.png");
-    border-color: #ccc;
-    padding: 20px;
-}
+
 .back{
    
     background-position: center;
