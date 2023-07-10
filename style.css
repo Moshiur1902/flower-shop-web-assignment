@@ -95,4 +95,27 @@ header {
 }
 .item-container{
     display: flex;
+    /* padding: 10px 20px 10px 270px ; */
+    padding: 0px 0px 0px 150px ;
+}
+.item-container .item1{
+    background: #f0b8c3;
+    margin: 20px;
+    padding: 80px 50px 0px 50px ;
+    border-radius: 300px 300px 0px 0px ;
+}
+.item-container .item2{
+    background: #a29ae7;
+    margin: 20px;
+    padding: 140px 30px 0px 30px ;
+    border-radius: 300px 300px 0px 0px ;
+}
+.item-container .item3{
+    background: #afebcd;
+    margin: 20px;
+    padding: 40px 50px 0px 50px ;
+    border-radius: 300px 300px 0px 0px ;
+}
+.item-description{
+    text-align: center;
 }
